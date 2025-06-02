@@ -1,4 +1,4 @@
-# projeto-wordpress-susanasalvadorGato
+# Projeto Final WordPress Salvador e Susana sobre Gatos
 
 Este site foi desenvolvido no âmbito do módulo "Tecnologias de Acesso a Base de Dados".
 

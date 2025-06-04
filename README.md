@@ -3,7 +3,7 @@
 Este site foi desenvolvido no âmbito do módulo "Tecnologias de Acesso a Base de Dados".
 
 ## Funcionalidades:
-- Página Inicial, Notícias e Sugestões, Sobre Nós
+- Página Inicial, Notícias e Sugestões, Sobre Nós, Galeria
 - 3 publicações de notícias
 - Formulário de sugestões
 - Personalização de tema
